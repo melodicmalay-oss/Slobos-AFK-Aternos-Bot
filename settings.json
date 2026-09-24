@@ -58,11 +58,11 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
-    "combat": true,
-    "beds": false,
-    "chat": true,
-    "console-commands": true
+    "avoidMobs": false,
+    "combat": false,
+    "beds": true,
+    "chat": false,
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": false,
